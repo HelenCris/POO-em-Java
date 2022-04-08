@@ -1,19 +1,30 @@
-## Getting Started
+## Programação Orientada ao objeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Objetivo: Aproximar o mundo digital do mundo real
 
-## Folder Structure
+Como era antes da OOP: 
+programação baixo nível -> programação linear -> programação estruturada -> programação modular -> Programação Orientada ao Objeto
 
-The workspace contains two folders by default, where:
+Quem criou: Alan Kay
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Vantagens: 
+COMERNada 
+- Confiável: O isolamento entre as partes gera software seguro. Ao alterar uma parte, nenhuma outra é afetada.
+- Oportuno: Ao dividir tudo em partes, várias delas podem ser desenvolvidas em paralelo.
+- Manutenível: Atualizar um software é mais fácil. Uma pequena modificação vai beneficiar todas as partes que usarem o objeto.
+- Extensível: O software não é estático. Ele deve crescer para permanecer útil.
+- Reutilizável: Podemos usar objetos de um sistema que criamos em outro sistema futuro.
+- Natural: Mais fácil de entender. Você se preocupa mais na funcionalidade do que nos detalhes de implementação.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Objeto: Coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas características, comportamentos e estado atual.
+    - Atributo: Características do objeto
+    - Métodos: Comportamentos do objeto
+    - Estado: Características atuais do objeto
 
-## Dependency Management
+Instanciar - é quando tem uma classe e transforma em objeto
+ou seja, 
+OBJETO É UMA INSTÂNCIA DE UMA CLASSE
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# POO-JAVA
+Classe: Define os atributos e métodos comuns que serão compartilhados por um objeto
+
