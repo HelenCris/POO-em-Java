@@ -8,7 +8,7 @@ public class App {
         c1.ponta = 0.5f; //atributo não tem parenteses
         c1.tampar();
         
-        c1.status(); //método tem parênteses
+        c1.status(); //metodo tem parênteses
         c1.rabiscar();
 
         Caneta c2 = new Caneta();
