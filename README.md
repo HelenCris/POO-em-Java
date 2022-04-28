@@ -28,3 +28,6 @@ OBJETO É UMA INSTÂNCIA DE UMA CLASSE
 
 Classe: Define os atributos e métodos comuns que serão compartilhados por um objeto
 
+- Visibilidade: Indica o nível de acesso aos componentes internos de uma classe.
+    +  representa o modo público, - representa o modo privado, # representa o modo protegido
+# Programa-o-Orientada-ao-Objeto-em-Java
