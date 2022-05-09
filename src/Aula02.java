@@ -1,11 +1,11 @@
-public class App {
+public class Aula02 {
     public static void main(String[] args) throws Exception {
         //Caneta = classe, c1 = objeto
         //objeto c1 istanciado
         Caneta c1 = new Caneta();
 
         c1.cor = "Azul";
-        c1.ponta = 0.5f; //atributo não tem parenteses
+        //c1.ponta = 0.5f; //atributo não tem parenteses
         c1.tampar();
         
         c1.status(); //metodo tem parênteses

@@ -1,11 +1,10 @@
 ## Programação Orientada ao objeto
 
-Objetivo: Aproximar o mundo digital do mundo real
+Objetivo: Aproximar o mundo digital do mundo real.
+Quem criou: Alan Kay.
 
 Como era antes da OOP: 
-programação baixo nível -> programação linear -> programação estruturada -> programação modular -> Programação Orientada ao Objeto
-
-Quem criou: Alan Kay
+programação baixo nível -> programação linear -> programação estruturada -> programação modular -> Programação Orientada ao Objeto.
 
 Vantagens: 
 COMERNada 
@@ -17,17 +16,22 @@ COMERNada
 - Natural: Mais fácil de entender. Você se preocupa mais na funcionalidade do que nos detalhes de implementação.
 
 
+OBJETO É UMA INSTÂNCIA DE UMA CLASSE.
+
 Objeto: Coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas características, comportamentos e estado atual.
     - Atributo: Características do objeto
     - Métodos: Comportamentos do objeto
     - Estado: Características atuais do objeto
 
-Instanciar - é quando tem uma classe e transforma em objeto
-ou seja, 
-OBJETO É UMA INSTÂNCIA DE UMA CLASSE
+Instanciar - é quando tem uma classe e transforma em objeto.
 
-Classe: Define os atributos e métodos comuns que serão compartilhados por um objeto
+Classe: Define os atributos e métodos comuns que serão compartilhados por um objeto.
 
 - Visibilidade: Indica o nível de acesso aos componentes internos de uma classe.
-    +  representa o modo público, - representa o modo privado, # representa o modo protegido
-# Programa-o-Orientada-ao-Objeto-em-Java
+    +  representa o modo público, - representa o modo privado, # representa o modo protegido.
+
+
+-Métodos Especiais
+    - Métodos Acessores - Getters ex: e.getSetTotDoc
+    - Métodos Modificadores - Setters ex: e.setTotDoc(doc) obs: geralmente precisa de um parametro pra funcionar
+    - Método Construtor - Construct
