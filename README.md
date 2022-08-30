@@ -38,9 +38,13 @@ Classe: Define os atributos e métodos comuns que serão compartilhados por um o
 
 - Pilares do POO
     -Encapsulamento: 
+    
         Encapsular - Ocultar partes independentes da implementação, permitindo construir partes invisíveis ao mundo exterior
-        Interface - Lista de serviços fornecidos por um componente. É o contato com o mundo exterior, que define o que pode ser feito com um objeto dessa classe
+        
+        Interface - Lista de serviços fornecidos por um componente. É o contato com o mundo exterior, que define o que pode ser feito com um objeto dessa classe.
+        
         OBS: Encapsular não é obrigatório, mas é uma boa prática para produzir Classes mais eficientes
+        
         * Vantagens em Encapsular:
             - Tornar mudanças invisíveis
             - Facilitar reutilização do código
